@@ -1,0 +1,82 @@
+
+
+p{
+  font-family:"comic sans";
+  text-indent:20px;
+  margin-left:10px;
+}
+
+#content {
+  background-color:#cccccc ;
+  width:600px;
+  min-height:300px;
+  padding:10px;
+  margin:10px;
+  border:solid 1px #444444;
+  font-size: 20px;
+}
+
+h1{
+  color:#FF0000;
+  font-size:150%;
+  background-image: linear-gradient(to left, white, blue);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+
+h3{
+  color:#black;
+  font-size:90%;
+  text-align: center;
+}
+
+
+body {
+  background-color:white;
+  width:600px;
+  min-height:300px;
+  padding:10px;
+  margin:10px;
+  font-size: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+h5{
+  color:#FF0000;
+  font-size:120%;
+  color: #black;
+}
+
+
+/* //object name */
+p2{
+  color:#FF0000;
+  font-size:140%;
+  color: #80FFFF;
+}
+
+p3{
+  color:#FF0000;
+  font-size:140%;
+  color: #B1D8B7;
+}
+
+p4{
+  color:#FF0000;
+  font-size:140%;
+  color: #E1C16E;
+}
