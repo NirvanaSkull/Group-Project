@@ -19,7 +19,7 @@ p{
 h1{
   color:#FF0000;
   font-size:150%;
-  background-image: linear-gradient(to left, white, blue);
+  background-image: linear-gradient(to left, white, cyan, blue);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
@@ -45,6 +45,13 @@ body {
 
 
 
+/* Cited */
+p999{
+  color:#FF0000;
+  font-size:80%;
+  color:black;
+  font-style: italic;
+}
 
 
 
@@ -52,14 +59,20 @@ body {
 
 
 
-
-
-
-h5{
+/* InterestingFact */
+p100{
   color:#black;
   font-size:100%;
   color: #black;
 }
+
+/*Fact */
+p123{
+  color:#black;
+  font-size:100%;
+  color: #black;
+}
+
 
 
 /* //object name */
@@ -99,5 +112,27 @@ p6{
 p7{
   color:#FF0000;
   font-size:130%;
-  color: ##3498DB;
+  color:#3498DB;
+}
+
+
+/* 1st paragraph */
+p9{
+  color:#FF0000;
+  font-size:100%;
+  color:#80FFFF;
+}
+
+p10{
+  color:#FF0000;
+  font-size:100%;
+  color:#00D1D1;
+  font-style: italic;
+}
+
+p11{
+  color:#FF0000;
+  font-size:100%;
+  color:#00D1D1;
+  font-style: italic;
 }
